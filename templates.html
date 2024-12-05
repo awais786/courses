@@ -3,18 +3,18 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ZIP Files</title>
+    <title>ZIP courses</title>
     <style>
         body {
             font-family: Arial, sans-serif;
             margin: 20px;
         }
-        .file-container {
+        .course-container {
             display: flex;
             flex-wrap: wrap;
             gap: 20px;
         }
-        .file-card {
+        .course-card {
             border: 1px solid #ddd;
             border-radius: 5px;
             padding: 10px;
@@ -23,35 +23,23 @@
             background-color: #f9f9f9;
             box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
         }
-        .file-card a {
+        .course-card a {
             text-decoration: none;
             color: #007BFF;
             font-weight: bold;
         }
-        .file-card a:hover {
+        .course-card a:hover {
             text-decoration: underline;
         }
     </style>
 </head>
 <body>
-    <h1>Available ZIP Files</h1>
-    <div class="file-container">
-        <div class="file-card">
-            <p>File 1: <strong>example1.zip</strong></p>
-            <a href="/path/to/example1.zip" download>Download</a>
-        </div>
-        <div class="file-card">
-            <p>File 2: <strong>example2.zip</strong></p>
-            <a href="/path/to/example2.zip" download>Download</a>
-        </div>
-        <div class="file-card">
-            <p>File 3: <strong>example3.zip</strong></p>
-            <a href="/path/to/example3.zip" download>Download</a>
-        </div>
-        <div class="file-card">
-            <p>File 4: <strong>example4.zip</strong></p>
-            <a href="/path/to/example4.zip" download>Download</a>
-        </div>
-    </div>
+    <h1>Available ZIP courses</h1>
+    <ul>
+        <li><a href="https://raw.githubusercontent.com/awais786/courses/course1.zip" download>course 1</a></li>
+        <li><a href="https://raw.githubusercontent.com/awais786/courses/course2.zip" download>course 2</a></li>
+        <li><a href="https://raw.githubusercontent.com/awais786/courses/course3.zip" download>course 3</a></li>
+        <li><a href="https://raw.githubusercontent.com/awais786/courses/course4.zip" download>course 4</a></li>
+    </ul>
 </body>
 </html>

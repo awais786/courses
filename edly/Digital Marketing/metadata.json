@@ -3,6 +3,7 @@
     "course_id": "course-v1:edX+DemoX+T2024",
     "title": "Introduction to Open edX",
     "description": "Learn the fundamentals of the Open edX platform, including how to create and manage courses.",
-    "thumbnail": "https://discover.ilmx.org/wp-content/uploads/2024/08/Screenshot-2024-08-22-at-4.38.09-PM.png"
+    "thumbnail": "https://discover.ilmx.org/wp-content/uploads/2024/08/Screenshot-2024-08-22-at-4.38.09-PM.png",
+    "active": true
 }
 

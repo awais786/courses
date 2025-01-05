@@ -3,7 +3,6 @@
         "courses_name": "AI Courses",
         "zip_url": "https://raw.githubusercontent.com/awais786/courses/main/edly/AI%20Courses/course.2jyd4n_5.tar.gz",
         "metadata": {
-            "course_id": "course-v1:edX+DemoX+Demo_Course",
             "title": "Introduction to Open edX",
             "description": "Learn the fundamentals of the Open edX platform, including how to create and manage courses.",
             "thumbnail": "https://discover.ilmx.org/wp-content/uploads/2024/01/Course-image-2.webp",
@@ -14,7 +13,6 @@
         "courses_name": "Digital Marketing",
         "zip_url": "https://raw.githubusercontent.com/awais786/courses/main/edly/Digital%20Marketing/course.tar.gz",
         "metadata": {
-            "course_id": "course-v1:edX+DemoX+T2024",
             "title": "Introduction to Open edX",
             "description": "Learn the fundamentals of the Open edX platform, including how to create and manage courses.",
             "thumbnail": "https://discover.ilmx.org/wp-content/uploads/2024/08/Screenshot-2024-08-22-at-4.38.09-PM.png",
@@ -25,7 +23,6 @@
         "courses_name": "Python Courses",
         "zip_url": "https://raw.githubusercontent.com/awais786/courses/main/edly/Python%20Courses/course.tar.gz",
         "metadata": {
-            "course_id": "course-v1:edX+DemoX+T2024",
             "title": "Introduction to Open edX",
             "description": "Learn the fundamentals of the Open edX platform, including how to create and manage courses.",
             "thumbnail": "https://discover.ilmx.org/wp-content/uploads/2024/04/course-card-banner.png",
